@@ -8,7 +8,7 @@ These are scripts for running on fresh EC2 installations based on Ubuntu 16.04 (
 
 Those can be used on normal machine as well, just remember to ```sudo su``` first.
 
-[Syslog Configuration for systemd custom services](aws/rsyslog_conf.sh)
-[Node.js LTS 6.x Installation](aws/nodejs_lts.sh)
-[MongoDB 3.2 Installation](aws/mongodb.sh)
-[Redis Installation](aws/redis.sh)
+ * [Syslog Configuration for systemd custom services](aws/rsyslog_conf.sh)
+ * [Node.js LTS 6.x Installation](aws/nodejs_lts.sh)
+ * [MongoDB 3.2 Installation](aws/mongodb.sh)
+ * [Redis Installation](aws/redis.sh)
