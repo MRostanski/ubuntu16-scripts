@@ -12,3 +12,5 @@ Those can be used on normal machine as well, just remember to ```sudo su``` firs
  * [Node.js LTS 6.x Installation](aws/nodejs_lts.sh)
  * [MongoDB 3.2 Installation](aws/mongodb.sh)
  * [Redis Installation](aws/redis.sh)
+
+ * [Full MEAN stack](aws/mean_stack.sh)
